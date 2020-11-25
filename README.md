@@ -4,7 +4,9 @@
 
 This is the capstone project from Brad Traversy Udemy [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce) course
 
-![screenshot](https://github.com/bradtraversy/proshop_mern/blob/master/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
+![screenshot](Screenshot-1.png)
+
+![screenshot](Screenshot-2.png)
 
 ## Features
 
